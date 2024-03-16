@@ -1,4 +1,6 @@
 # XML-Tux-Game
+#### Auteurs: Higo Medeiros & Ciré Keita
+#### Université Grenoble Alpes - Projet XML et Java
 # I. INTRODUCTION
 
 ## A. Présentation du Projet
